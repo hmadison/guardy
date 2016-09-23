@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-Guardy::Guard.(this == that, that == other_that) { puts "Invoked on any failure"}
+Guardy::Guard.(this == that, that == other_that) { puts "Invoked on any failure" }
 ```
 
 ## Development
